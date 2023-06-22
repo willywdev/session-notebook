@@ -9,4 +9,8 @@
 
 # Cheatsheets
 
-![Folder Icon](icons/file.png) [Git Cheatsheet](shell-and-git/git-cheatsheet.md)
+![File Icon](icons/file.png) [Markdown Cheatsheet](shell-and-git/markdown-cheatsheet.md)
+<br>
+
+![File Icon](icons/file.png) [Git Cheatsheet](shell-and-git/git-cheatsheet.md)
+<br>
