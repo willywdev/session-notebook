@@ -2,11 +2,11 @@
 
 # Folders
 
-[HTML](css/README.md)
-[CSS](html/README.md)
-[Javascript](javascript/README.md)
-[Shell and Git](shell-and-git/README.md)
+![Folder Icon](icons/folder.png) [HTML](css/README.md)
+![Folder Icon](icons/folder.png) [CSS](html/README.md)
+![Folder Icon](icons/folder.png) [Javascript](javascript/README.md)
+![Folder Icon](icons/folder.png) [Shell and Git](shell-and-git/README.md)
 
 # Cheatsheets
 
-[Git Cheatsheet](shell-and-git/git-cheatsheet.md)
+![Folder Icon](icons/file.png) [Git Cheatsheet](shell-and-git/git-cheatsheet.md)
