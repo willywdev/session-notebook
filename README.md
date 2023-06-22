@@ -1,3 +1,5 @@
+![banner image](banner.png)
+
 # Folders
 
 - [HTML](css/README.md)
