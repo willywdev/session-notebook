@@ -1,25 +1,31 @@
 # Git Cheatsheet
 
----
+## SETUP & INIT
 
-## Creating local repo
+| Git command     | Git task                                                     |
+| --------------- | ------------------------------------------------------------ |
+| git init        | initialize an existing directory as a Git repository         |
+| git clone [URL] | retrieve an entire repository from a hosted location via URL |
 
-`cd path/to/my/folder`
-`git init`
+## STAGE & SNAPSHOT
 
-❗️ Don't init a repo inside a repo
-To check:
-`git status`
+| Git command                      | Git task                                                              |
+| -------------------------------- | --------------------------------------------------------------------- |
+| git status                       | show modified files in working directory, staged for your next commit |
+| git add [file]                   | add a file as it looks now to your next commit (stage)                |
+| git commit -m "[commit message]" | commit your staged content as a new commit snapshot                   |
+| git restore [file]               | Return to the last commited state of the file                         |
 
-## Different Stages of Files
+## INSPECT & COMPARE
 
-**Untracked** or **Tracked**
-Untracked files have not been added to git.
+| Git command | Git task                                                |
+| ----------- | ------------------------------------------------------- |
+| git log     | show the commit history for the currently active branch |
 
-### Tracked Files
+## SHARE & UPDATE
 
-| state     | description                        |
-| --------- | ---------------------------------- |
-| modified  | has changes since the last commit  |
-| staged    | is included in next commit         |
-| committed | all changes have been saved in git |
+| Git command                   | Git task                                                                                |
+| ----------------------------- | --------------------------------------------------------------------------------------- |
+| git remote add [branch] [url] | Connect to an external repository (like Github for example). Default branch is `origin` |
+| git push                      | Transmit local branch commits to the remote repository                                  |
+| git pull                      | Transmit remote branch commits to local repository                                      |
