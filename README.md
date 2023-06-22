@@ -5,6 +5,6 @@
 - [Javascript](javascript/README.md)
 - [Shell and Git](shell-and-git/README.md)
 
-# CheatSheets
+# Cheatsheets
 
 - [Git Cheatsheet](shell-and-git/git-cheatsheet.md)
