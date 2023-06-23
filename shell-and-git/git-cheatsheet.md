@@ -29,3 +29,11 @@
 | git remote add [branch] [url] | Connect to an external repository (like Github for example). Default branch is `origin` |
 | git push                      | Transmit local branch commits to the remote repository                                  |
 | git pull                      | Transmit remote branch commits to local repository                                      |
+
+## Branching
+
+| Command                    | Description          |
+| -------------------------- | -------------------- |
+| git switch -c [branchname] | creates a new branch |
+| git switch [branchname]    | switch branches      |
+| git branch                 | show all branches    |
