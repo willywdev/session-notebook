@@ -14,3 +14,10 @@
 ![File Icon](icons/file.png) [Mac Terminal Cheatsheet](shell-and-git/macterminal-cheatsheet.md)
 
 ![File Icon](icons/file.png) [Git Cheatsheet](shell-and-git/git-cheatsheet.md)
+
+# Session Notes
+
+📚 [Markdown Session](shell-and-git/markdown-session.md)<br>
+📚 [Terminal Session](shell-and-git/terminal-session.md)<br>
+📚 [Git & Github Session](shell-and-git/git-github-session.md)<br>
+📚 [Branching & Pull Request Session](shell-and-git/branch-pullrequest-session.md)<br>
