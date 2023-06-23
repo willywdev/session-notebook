@@ -9,4 +9,4 @@
 🔗 [Markdown Session](markdown-session.md)<br>
 🔗 [Terminal Session](terminal-session.md)<br>
 🔗 [Git & Github Session](git-github-session.md)<br>
-🔗 [Branching & Pull Request Session](git-github-session.md)<br>
+🔗 [Branching & Pull Request Session](branch-pullrequest-session.md)<br>
