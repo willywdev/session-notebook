@@ -32,7 +32,8 @@
 
 ## Branching
 
-| Command                    | Description          |
-| -------------------------- | -------------------- |
-| git switch -c [branchname] | creates a new branch |
-| git switch [branchname]    | switch branches      |
+| Command                          | Description          |
+| -------------------------------- | -------------------- |
+| git switch -c [branchname]       | creates a new branch |
+| git switch [branchname]          | switch branches      |
+| git branch --delete [branchname] | delete branch        |
