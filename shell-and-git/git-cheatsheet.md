@@ -36,4 +36,3 @@
 | -------------------------- | -------------------- |
 | git switch -c [branchname] | creates a new branch |
 | git switch [branchname]    | switch branches      |
-| git branch                 | show all branches    |
