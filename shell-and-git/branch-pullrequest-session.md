@@ -12,8 +12,9 @@ Die gemeinsame Codebasis des Teams wird normalerweise im "main"-Branch gehalten.
 Namensgebung von Branches:
 Es ist ratsam, kurze beschreibende Namen für deine Feature-Branches zu verwenden, z.B. "contact-form". Wir empfehlen, Bindestriche als Trennzeichen zu verwenden, da sie den Namen lesbarer machen.
 
-Git Pull Requests:
-GitHub bietet uns Pull Requests (PR), die wir als bequemen Weg verwenden können, um Reviews der Arbeit auf einem Feature-Branch anzufordern. Ein Pull Request ist eine Anfrage, einen Branch in einen anderen Branch zu mergen. Andere Entwickler überprüfen den PR und schlagen Änderungen vor. Wenn ein Pull Request genehmigt wird, können wir den Feature-Branch in den Hauptbranch mergen.
+# Git Pull Requests
+
+Ein Pull Request ist eine Anfrage, einen Branch in einen anderen Branch zu mergen. <br> Andere Entwickler überprüfen den PR und schlagen Änderungen vor. Wenn ein Pull Request genehmigt wird, können wir den Feature-Branch in den Hauptbranch mergen.
 
 Grundlegender Workflow für einen Pull Request:
 
