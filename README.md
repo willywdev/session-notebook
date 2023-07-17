@@ -3,13 +3,13 @@
 <pre>
 📦session-notebook
  ┣ 📂<a href="./css">css</a>
- ┃ ┣ 📜<a href="">1_css-basics.md</a>
- ┃ ┣ 📜<a href="">2_css-selectors.md</a>
- ┃ ┣ 📜<a href="">3_css-flexbox.md</a>
- ┃ ┣ 📜<a href="">4_css-positioning.md</a>
- ┃ ┣ 📜<a href="">5_css-structure.md</a>
- ┃ ┣ 📜<a href="">6_css-grid.md</a>
- ┃ ┗ 📜<a href="">7_css-responsive.md</a>
+ ┃ ┣ 📜<a href="./css/1_css-basics.md">1_css-basics.md</a>
+ ┃ ┣ 📜<a href="./css/2_css-selectors.md">2_css-selectors.md</a>
+ ┃ ┣ 📜<a href="./css/3_css-flexbox.md">3_css-flexbox.md</a>
+ ┃ ┣ 📜<a href="./css/4_css-positioning.md">4_css-positioning.md</a>
+ ┃ ┣ 📜<a href="./css/5_css-structure.md">5_css-structure.md</a>
+ ┃ ┣ 📜<a href="./css/6_css-grid.md">6_css-grid.md</a>
+ ┃ ┗ 📜<a href="./css/7_css-responsive.md">7_css-responsive.md</a>
  ┣ 📂html
  ┃ ┣ 📜1_html-web.md
  ┃ ┣ 📜2_accessibility.md
