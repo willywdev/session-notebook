@@ -10,21 +10,21 @@
  ┃ ┣ 📜<a href="./css/5_css-structure.md">5_css-structure.md</a>
  ┃ ┣ 📜<a href="./css/6_css-grid.md">6_css-grid.md</a>
  ┃ ┗ 📜<a href="./css/7_css-responsive.md">7_css-responsive.md</a>
- ┣ 📂html
- ┃ ┣ 📜1_html-web.md
- ┃ ┣ 📜2_accessibility.md
- ┃ ┗ 📜3_html-forms.md
- ┣ 📂javascript
- ┃ ┣ 📜1_js-basics.md
- ┃ ┣ 📜2_js-syntax-variables.md
- ┃ ┣ 📜3_js-conditions.md
- ┃ ┣ 📜4_js-functions-1.md
- ┃ ┗ 📜5_js-functions-2.md
- ┣ 📂shell-git-markdown
- ┃ ┣ 📜1_github-and-markdown.md
- ┃ ┣ 📜2_shell-bash.md
- ┃ ┣ 📜3_git-github.md
- ┃ ┗ 📜4_branches-pullrequests.md
+ ┣ 📂<a href="./html">html</a>
+ ┃ ┣ 📜<a href="./html/1_html-web.md">1_html-web.md</a>
+ ┃ ┣ 📜<a href="./html/2_accessibility.md">2_accessibility.md</a>
+ ┃ ┗ 📜<a href="./html/3_html-forms.md">3_html-forms.md</a>
+ ┣ 📂<a href="./javascript">javascript</a>
+ ┃ ┣ 📜<a href="./javascript/1_js-basics.md">1_js-basics.md</a>
+ ┃ ┣ 📜<a href="./javascript/2_js-syntax-variables.md">2_js-syntax-variables.md</a>
+ ┃ ┣ 📜<a href="./javascript/3_js-conditions.md">3_js-conditions.md</a>
+ ┃ ┣ 📜<a href="./javascript/4_js-functions-1.md">4_js-functions-1.md</a>
+ ┃ ┗ 📜<a href="./javascript/5_js-functions-2.md">5_js-functions-2.md</a>
+ ┣ 📂<a href="./shell-git-markdown">shell-git-markdown</a>
+ ┃ ┣ 📜<a href="./shell-git-markdown/1_github-and-markdown.md">1_github-and-markdown.md</a>
+ ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
+ ┃ ┣ 📜<a href="./shell-git-markdown/3_git-github.md">3_git-github.md</a>
+ ┃ ┗ 📜<a href="./shell-git-markdown/4_branches-pullrequests.md">4_branches-pullrequests.md</a>
  ┣ 📜.gitignore
  ┣ 📜README.md
  ┗ 📜banner.png
