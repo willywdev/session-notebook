@@ -19,7 +19,8 @@
  ┃ ┣ 📜<a href="./javascript/2_js-syntax-variables.md">2_js-syntax-variables.md</a>
  ┃ ┣ 📜<a href="./javascript/3_js-conditions.md">3_js-conditions.md</a>
  ┃ ┣ 📜<a href="./javascript/4_js-functions-1.md">4_js-functions-1.md</a>
- ┃ ┗ 📜<a href="./javascript/5_js-functions-2.md">5_js-functions-2.md</a>
+ ┃ ┣ 📜<a href="./javascript/5_js-functions-2.md">5_js-functions-2.md</a>
+ ┃ ┗ 📜<a href="./javascript/6_js-inputs-strings.md">6_js-inputs.strings.md</a>
  ┣ 📂shell-git-markdown
  ┃ ┣ 📜<a href="./shell-git-markdown/1_github-and-markdown.md">1_github-and-markdown.md</a>
  ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
