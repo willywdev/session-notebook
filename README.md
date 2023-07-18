@@ -12,7 +12,7 @@
  ┃ ┗ 📜<a href="./css/7_css-responsive.md">7_css-responsive.md</a>
  ┣ 📂html
  ┃ ┣ 📜<a href="./html/1_html-web.md">1_html-web.md</a>
- ┃ ┣ 📜<a href="./html/2_accessibility.md">2_accessibility.md</a>
+ ┃ ┣ 📜<a href="./html/2_html-accessibility.md">2_html-accessibility.md</a>
  ┃ ┗ 📜<a href="./html/3_html-forms.md">3_html-forms.md</a>
  ┣ 📂javascript
  ┃ ┣ 📜<a href="./javascript/1_js-basics.md">1_js-basics.md</a>
