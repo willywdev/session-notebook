@@ -27,7 +27,6 @@
  ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
  ┃ ┣ 📜<a href="./shell-git-markdown/3_git-github.md">3_git-github.md</a>
  ┃ ┗ 📜<a href="./shell-git-markdown/4_branches-pullrequests.md">4_branches-pullrequests.md</a>
-
  ┣ 📜.gitignore
  ┣ 📜README.md
  ┗ 📜banner.png
