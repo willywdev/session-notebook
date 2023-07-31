@@ -26,7 +26,8 @@
  ┃ ┣ 📜<a href="./javascript/9_js-createElement.md">9_js-createElement.md</a>
  ┃ ┣ 📜<a href="./javascript/10_js-forms-2.md">10_js-forms-2.md</a>
  ┃ ┣ 📜<a href="./javascript/11_js-loops.md">11_js-loops.md</a>
- ┃ ┗ 📜<a href="./javascript/12_js-callback-functions.md">12_js-callback-functions.md</a>
+ ┃ ┣ 📜<a href="./javascript/12_js-callback-functions.md">12_js-callback-functions.md</a>
+ ┃ ┗ 📜<a href="./javascript/13_js-array-methods.md">13_js-array-methods.md</a>
  ┣ 📂shell-git-markdown
  ┃ ┣ 📜<a href="./shell-git-markdown/1_github-and-markdown.md">1_github-and-markdown.md</a>
  ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
