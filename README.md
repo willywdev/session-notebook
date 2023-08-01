@@ -10,6 +10,8 @@
  ┃ ┣ 📜<a href="./css/5_css-structure.md">5_css-structure.md</a>
  ┃ ┣ 📜<a href="./css/6_css-grid.md">6_css-grid.md</a>
  ┃ ┗ 📜<a href="./css/7_css-responsive.md">7_css-responsive.md</a>
+ ┣ 📂general
+ ┃ ┗ 📜<a href="./general/1_npm-linting.md">1_npm-linting.md</a>
  ┣ 📂html
  ┃ ┣ 📜<a href="./html/1_html-web.md">1_html-web.md</a>
  ┃ ┣ 📜<a href="./html/2_html-accessibility.md">2_html-accessibility.md</a>
