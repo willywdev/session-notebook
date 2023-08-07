@@ -32,7 +32,8 @@
  ┃ ┣ 📜<a href="./javascript/13_js-array-methods.md">13_js-array-methods.md</a>
  ┃ ┣ 📜<a href="./javascript/14_js-structure.md">14_js-structure.md</a>
  ┃ ┣ 📜<a href="./javascript/15_js-array-methods-2.md">15_js-array-methods-2.md</a>
- ┃ ┗ 📜<a href="./javascript/16_js-async-javascript.md">16_js-async-javascript.md</a>
+ ┃ ┣ 📜<a href="./javascript/16_js-async-javascript.md">16_js-async-javascript.md</a>
+ ┃ ┗ 📜<a href="./javascript/17_js-fetch.md">17_js-fetch.md</a>
  ┣ 📂shell-git-markdown
  ┃ ┣ 📜<a href="./shell-git-markdown/1_github-and-markdown.md">1_github-and-markdown.md</a>
  ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
