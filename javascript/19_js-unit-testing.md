@@ -14,8 +14,11 @@
 - Testen eine in sich geschlossene Einheit (z.b. eine Funktion)
 - Kleinste Art von Tests
 - NPM Library für Tests:
-  [Jest](jestjs.io)<!-- {"preview":"true"} -->
+
+  [Jest](jestjs.io)
+
   `npm i -D jest`
+
 - Desto größer die Funktion, desto mehr müssen wir testen
 - Externe Abhängigkeiten erschweren Tests
 - Wichtig: Funktion muss etwas returnen
