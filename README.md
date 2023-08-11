@@ -34,7 +34,8 @@
  ┃ ┣ 📜<a href="./javascript/15_js-array-methods-2.md">15_js-array-methods-2.md</a>
  ┃ ┣ 📜<a href="./javascript/16_js-async-javascript.md">16_js-async-javascript.md</a>
  ┃ ┣ 📜<a href="./javascript/17_js-fetch.md">17_js-fetch.md</a>
- ┃ ┗ 📜<a href="./javascript/18_js-modern-syntax.md">18_js-modern-syntax.md</a>
+ ┃ ┣ 📜<a href="./javascript/18_js-modern-syntax.md">18_js-modern-syntax.md</a>
+ ┃ ┣ 📜<a href="./javascript/19_js-unit-testing.md">19_js-unit-testing.md</a>
  ┣ 📂shell-git-markdown
  ┃ ┣ 📜<a href="./shell-git-markdown/1_github-and-markdown.md">1_github-and-markdown.md</a>
  ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
