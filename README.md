@@ -38,7 +38,8 @@
  ┃ ┣ 📜<a href="./javascript/19_js-unit-testing.md">19_js-unit-testing.md</a>
  ┣ 📂react
  ┃ ┣ 📜<a href="./react/1_react-basics.md">1_react-basics.md</a>
- ┃ ┗ 📜<a href="./react/2_react-props.md">2_react-props.md</a>
+ ┃ ┣ 📜<a href="./react/2_react-props.md">2_react-props.md</a>
+ ┃ ┗ 📜<a href="./react/3_react-nesting.md">3_react-nesting.md</a>
  ┣ 📂shell-git-markdown
  ┃ ┣ 📜<a href="./shell-git-markdown/1_github-and-markdown.md">1_github-and-markdown.md</a>
  ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
