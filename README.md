@@ -43,7 +43,8 @@
  ┃ ┣ 📜<a href="./react/4_react-states-1.md">4_react-states-1.md</a>
  ┃ ┣ 📜<a href="./react/5_react-states-2.md">5_react-states-2.md</a>
  ┃ ┣ 📜<a href="./react/6_react-states-3.md">6_react-states-3.md</a>
- ┃ ┗ 📜<a href="./react/7_react-useEffect-fetch.md">7_react-useEffect-fetch.md</a>
+ ┃ ┣ 📜<a href="./react/7_react-useEffect-fetch.md">7_react-useEffect-fetch.md</a>
+ ┃ ┗ 📜<a href="./react/8_react-localStorage.md">8_react-localStorage.md</a>
  ┣ 📂shell-git-markdown
  ┃ ┣ 📜<a href="./shell-git-markdown/1_github-and-markdown.md">1_github-and-markdown.md</a>
  ┃ ┣ 📜<a href="./shell-git-markdown/2_shell-bash.md">2_shell-bash.md</a>
