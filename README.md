@@ -36,6 +36,8 @@
  ┃ ┣ 📜<a href="./javascript/17_js-fetch.md">17_js-fetch.md</a>
  ┃ ┣ 📜<a href="./javascript/18_js-modern-syntax.md">18_js-modern-syntax.md</a>
  ┃ ┣ 📜<a href="./javascript/19_js-unit-testing.md">19_js-unit-testing.md</a>
+ ┣ 📂Next.js
+ ┃ ┣ 📜<a href="./Next.js/1_nextjs-basics-routing.md">1_nextjs-basics-routing.md</a>
  ┣ 📂react
  ┃ ┣ 📜<a href="./react/1_react-basics.md">1_react-basics.md</a>
  ┃ ┣ 📜<a href="./react/2_react-props.md">2_react-props.md</a>
