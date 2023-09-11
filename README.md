@@ -38,7 +38,8 @@
  ┃ ┣ 📜<a href="./javascript/19_js-unit-testing.md">19_js-unit-testing.md</a>
  ┣ 📂Next.js
  ┃ ┣ 📜<a href="./Next.js/1_nextjs-basics-routing.md">1_nextjs-basics-routing.md</a>
- ┃ ┗ 📜<a href="./Next.js/2_nextjs-dynamic-routing.md">2_nextjs-dynamic-routing.md</a>
+ ┃ ┣ 📜<a href="./Next.js/2_nextjs-dynamic-routing.md">2_nextjs-dynamic-routing.md</a>
+ ┃ ┗ 📜<a href="./Next.js/3_nextjs-data-fetching.md">3_nextjs-data-fetching.md</a>
  ┣ 📂react
  ┃ ┣ 📜<a href="./react/1_react-basics.md">1_react-basics.md</a>
  ┃ ┣ 📜<a href="./react/2_react-props.md">2_react-props.md</a>
