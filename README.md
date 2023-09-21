@@ -5,7 +5,8 @@
  ┣ 📂backend
  ┃ ┣ 📜<a href="./backend/1_node-basics.md">1_node-basics.md</a>
  ┃ ┣ 📜<a href="./backend/2_backend-api-routes.md">2_backend-api-routes.md</a>
- ┃ ┗ 📜<a href="./backend/3_backend-mongodb.md">3_backend-mongodb.md</a>
+ ┃ ┣ 📜<a href="./backend/3_backend-mongodb.md">3_backend-mongodb.md</a>
+ ┃ ┗ 📜<a href="./backend/4_backend-mongoose.md">4_backend-mongoose.md</a>
  ┣ 📂css
  ┃ ┣ 📜<a href="./css/1_css-basics.md">1_css-basics.md</a>
  ┃ ┣ 📜<a href="./css/2_css-selectors.md">2_css-selectors.md</a>
