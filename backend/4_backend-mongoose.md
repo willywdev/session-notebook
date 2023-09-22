@@ -1,4 +1,4 @@
-# Backend Mongoose
+# Backend Mongoose Read
 
 - Mongoose -> Wie ein Datenbanktreiber. Hier für MongoDB
 - Mit Mongoose können wir die Daten fest strukturieren
@@ -85,6 +85,7 @@ Mit Mongoose können wir jetzt ein Schemata festlegen (wie eine Blaupause):
 
 - Mit diesen Schemata legen wir die Struktur der Daten fest
 - neuer Ordner: `models` (in db)
+- Mit diesen Models stellen wir eine Verbindung zur db her (und mit dbConnect)
 
 ```js
 // --- Joke.js --- //
