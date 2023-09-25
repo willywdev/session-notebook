@@ -7,7 +7,8 @@
  ┃ ┣ 📜<a href="./backend/2_backend-api-routes.md">2_backend-api-routes.md</a>
  ┃ ┣ 📜<a href="./backend/3_backend-mongodb.md">3_backend-mongodb.md</a>
  ┃ ┣ 📜<a href="./backend/4_backend-mongoose.md">4_backend-mongoose.md</a>
- ┃ ┗ 📜<a href="./backend/5_backend-mongoose-create.md">5_backend-mongoose-create.md</a>
+ ┃ ┣ 📜<a href="./backend/5_backend-mongoose-create.md">5_backend-mongoose-create.md</a>
+ ┃ ┗ 📜<a href="./backend/6_backend-mongoose-edit-delete.md">6_backend-mongoose-edit-delete.md</a>
  ┣ 📂css
  ┃ ┣ 📜<a href="./css/1_css-basics.md">1_css-basics.md</a>
  ┃ ┣ 📜<a href="./css/2_css-selectors.md">2_css-selectors.md</a>
